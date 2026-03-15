@@ -5,8 +5,6 @@
 2. My favorites are React, TypeScript, Docker, Next.js,fastapi,python
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
-
 ## Programming Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=xsakurait&show_icons=true&locale=en&layout=compact)
