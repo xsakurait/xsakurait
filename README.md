@@ -9,7 +9,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python," /> <br /><br />
+![](https://github-readme-stats.vercel.app/api/top-langs?username=xsakurait&show_icons=true&locale=en&layout=compact)
 
 ## Frameworks and Library
 
