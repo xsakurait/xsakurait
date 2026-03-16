@@ -11,7 +11,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,,fastapi" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,spring,fastapi" /> <br /><br />
 
 ## DB and Dev Tools etc
 
